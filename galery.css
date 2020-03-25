@@ -1,0 +1,14 @@
+#title {font-family: Lobster, Arial; font-size: 40px}
+a:link {color: blue}
+a:visited {color: blue}
+a:active {color: red}
+a:hover {color: red}
+	a {text-decoration: none}
+#navig {font-size: 30px; text-align: center; border: 2px solid red}
+#galery img {height: 500px}
+body {font-family: Arial}
+article table {width: 100%; text-align: center}
+#motherday {vertical-align: top}
+header table {margin-left: auto; margin-right: auto}
+h2 {text-align: center}
+tr.line {height: 30px}

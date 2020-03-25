@@ -1,0 +1,32 @@
+table.timetable {text-align: center; width: 95%}
+#title {font-family: Lobster, Arial; font-size: 40px}
+td.width {width: 10%}
+td.physics {background-color: #00FF00}
+td.biology {background-color: #FFFFE0}
+td.english {background-color: #A0522D}
+td.obj {background-color: #FF0000}
+td.chemistry {background-color: #FF00FF}
+td.social {background-color: #C0C0C0}
+td.painting {background-color: #98FB98}
+td.music {background-color: #C71585}
+td.history {background-color: #00FF7F}
+td.technology {background-color: #9ACD32}
+td.maths {background-color: #90EE90}
+td.delimost {background-color: #FFE4B5}
+td.geography {background-color: #FFD700}
+td.fra {background-color: #DAA520}
+td.it {background-color: #7FFFD4}
+td.literature {background-color: #FFDAB9}
+td.russian {background-color: #E0FFFF}
+#navig {font-size: 30px; text-align: center; border: 2px solid red}
+a:link {color: blue}
+a:visited {color: blue}
+a:active {color: red}
+a:hover {color: red}
+	a {text-decoration: none}
+body {font-family: Arial}
+tr.miniline {height: 25px}
+tr.bigline {height: 50px}
+#news {vertical-align: top}
+header table {margin-left: auto; margin-right: auto}
+p.del {color: red}

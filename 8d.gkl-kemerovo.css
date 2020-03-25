@@ -1,0 +1,15 @@
+#navig {font-size: 30px; text-align: center; border: 2px solid red}
+#title {font-family: Lobster, Arial; font-size: 40px}
+	a {text-decoration: none}
+a:link {color: blue}
+a:visited {color: blue}
+a:active {color: red}
+a:hover {color: red}
+#news {font-size: 25px; text-align: center}
+body {font-family: Arial}
+article img {height: 300px}
+article table {width: 100%}
+td.np {vertical-align: top}
+tr.line{height: 50px}
+header table {margin-left: auto; margin-right: auto}
+article td {text-align: center}
