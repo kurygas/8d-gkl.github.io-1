@@ -7,7 +7,7 @@ a:active {color: red}
 a:hover {color: red}
 #news {font-size: 25px; text-align: center}
 body {font-family: Arial}
-article img {height: 18em}
+article img {height: 275px}
 article table {width: 100%}
 td.np {vertical-align: top}
 tr.line{height: 50px}
