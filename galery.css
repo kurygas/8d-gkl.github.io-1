@@ -5,7 +5,7 @@ a:active {color: red}
 a:hover {color: red}
 	a {text-decoration: none}
 #navig {font-size: 30px; text-align: center; border: 2px solid red}
-#galery img {height: 500px}
+#galery img {height: auto; max-width: 100%; max-height: 500px}
 body {font-family: Arial}
 article table {width: 100%; text-align: center}
 #motherday {vertical-align: top}
