@@ -7,7 +7,7 @@ a:hover {color: red}
 	a {text-decoration: none}
 #navig {font-size: 30px; text-align: center; border: 5px solid #2E64FE}
 #navig td {background-color: #D8D8D8}
-#smalltitle {font-size: 25px; text-align: center}
+h2 {text-align: center}
 article img {height: 400px; float: right}
 body {font-family: Arial}
 table {margin-left: auto; margin-right: auto; width: 100%}
