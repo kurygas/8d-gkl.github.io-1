@@ -8,7 +8,8 @@ a:hover {color: red}
 #navig {font-size: 30px; text-align: center; border: 5px solid #2E64FE}
 #navig td {background-color: #D8D8D8}
 h2 {text-align: center}
-article img {height: 400px; float: right}
+article img {height: 400px}
+#student img {float: right}
 body {font-family: Arial}
 table {margin-left: auto; margin-right: auto; width: 100%}
 header table {margin-left: auto; margin-right: auto}
