@@ -4,7 +4,8 @@ a:visited {color: blue}
 a:active {color: red}
 a:hover {color: red}
 	a {text-decoration: none}
-#navig {font-size: 30px; text-align: center; border: 2px solid red}
+#navig {font-size: 30px; text-align: center; border: 5px solid #2E64FE}
+#navig td {background-color: #D8D8D8}
 #titlelist {font-size: 25px; text-align: center}
 #list {text-align: center; font-size: 20px}
 #list img {height: auto; max-width: 100%; max-height: 300px}
