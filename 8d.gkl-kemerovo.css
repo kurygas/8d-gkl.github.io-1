@@ -14,3 +14,7 @@ td.np {vertical-align: top}
 tr.line{height: 50px}
 header table {margin-left: auto; margin-right: auto}
 article td {text-align: center}
+a:link p {color: black}
+a:visited p {color: black}
+a:active p {color: black}
+a:hover p {color: black}
