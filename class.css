@@ -1,9 +1,17 @@
-#title {font-family: Lobster, Arial; font-size: 40px}
-	a {text-decoration: none}
-#navig {font-size: 30px; text-align: center; border: 5px solid #2E64FE}
+#title {font-family: Arial; font-size: 40px}
+	a {text-decoration: none; color: white}
 #titlelist {font-size: 25px; text-align: center}
-#list {text-align: center; font-size: 20px}
-#list img {height: auto; max-width: 100%; max-height: 300px}
-body {font-family: Arial}
+#list {text-align: center; font-size: 20px; padding: 20px; width: 85%; margin-left: auto; margin-right: auto; border: 1px solid #D0D3D4; border-radius: 5px; background-color: white;
+border-spacing: 30px}
+#list img {height: auto; width: 100%; max-width: 300px; max-height: 300px}
+body {font-family: monospace; margin: 0}
 header table {margin-left: auto; margin-right: auto}
 #back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
+#navig td {border: 0px solid #D0D3D4; border-radius: 5px; background-color: #2E86C1}
+#navig {font-size: 30px; text-align: center; background-color: #2874A6; height: 80px; border-spacing: 20px}
+#navig a {color: white}
+#back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
+#list td {background-color: #2874A6; border-radius: 0 0 20px 20px; box-shadow: 5px 5px 5px #888888; vertical-align: bottom}
+#line td {background-color: white; height: 50px; box-shadow: 0px 0px}
+article {background-color: #ECF0F1}
+#invis {visibility: hidden}
