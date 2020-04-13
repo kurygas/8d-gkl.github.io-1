@@ -1,32 +1,35 @@
-table.timetable {text-align: center; width: 95%}
-#title {font-family: Lobster, Arial; font-size: 40px}
+table.timetable {text-align: center; border-spacing: 20px}
+#div {width: 85%; padding: 20px; margin-left: auto; margin-right: auto; border: 1px solid #D0D3D4; border-radius: 5px; background-color: white; margin-top: 50px}
+#title {font-family; font-size: 40px}
 td.width {width: 10%}
-td.physics {background-color: #00FF00}
-td.biology {background-color: #FFFFE0}
-td.english {background-color: #A0522D}
-td.obj {background-color: #FF0000}
-td.chemistry {background-color: #FF00FF}
-td.social {background-color: #C0C0C0}
-td.painting {background-color: #98FB98}
-td.music {background-color: #C71585}
-td.history {background-color: #00FF7F}
-td.technology {background-color: #9ACD32}
-td.maths {background-color: #90EE90}
-td.delimost {background-color: #FFE4B5}
-td.geography {background-color: #FFD700}
-td.fra {background-color: #DAA520}
-td.it {background-color: #7FFFD4}
-td.literature {background-color: #FFDAB9}
-td.russian {background-color: #E0FFFF}
-#navig {font-size: 30px; text-align: center; border: 5px solid #2E64FE}
-a:link {color: blue}
-a:visited {color: blue}
-a:active {color: red}
-a:hover {color: red}
-	a {text-decoration: none}
-body {font-family: Arial}
+td.physics {background-color: #E6B0AA}
+td.biology {background-color: #F5B7B1}
+td.english {background-color: #D7BDE2}
+td.obj {background-color: #D2B4DE}
+td.chemistry {background-color: #A9CCE3}
+td.social {background-color: #AED6F1}
+td.painting {background-color: #A3E4D7}
+td.music {background-color: #A2D9CE}
+td.history {background-color: #A9DFBF}
+td.technology {background-color: #ABEBC6}
+td.maths {background-color: #F9E79F}
+td.delimost {background-color: #FAD7A0}
+td.geography {background-color: #F5CBA7}
+td.fra {background-color: #EDBB99}
+td.it {background-color: #D5DBDB}
+td.literature {background-color: #AEB6BF}
+td.russian {background-color: #ABB2B9}
+	a {text-decoration: none; color: #2874A6}
+#navig a {color: white}
+body {font-family: Arial; margin: 0}
 tr.miniline {height: 25px}
 tr.bigline {height: 50px}
 #news {vertical-align: top}
 header table {margin-left: auto; margin-right: auto}
 p.del {color: red}
+#navig {font-size: 30px; text-align: center; background-color: #2874A6; height: 80px; border-spacing: 20px}
+#navig td {border: 0px solid #D0D3D4; border-radius: 5px; background-color: #2E86C1}
+#back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
+article {background-color: #ECF0F1}
+#time {background-color: #2874A6; color: white; border-radius: 15px; border-spacing: 10px}
+td {border-radius: 7px}
