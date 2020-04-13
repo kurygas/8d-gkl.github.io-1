@@ -12,6 +12,6 @@ article img {height: auto; max-width: 100%; max-height: 300px}
 #main {text-align: center}
 #main td {border-radius: 0 0 20px 20px; color: white; width: 50%; vertical-align: bottom} 
 article {background-color: #ECF0F1}
-article li {color: white}
+article li {color: white; font-size: 15px}
 #line td {background-color: white; height: 50px; box-shadow: 0px 0px}
 #back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
