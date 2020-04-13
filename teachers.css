@@ -1,15 +1,17 @@
-#title {font-family: Lobster, Arial; font-size: 40px}
-#navig {font-size: 30px; text-align: center; border: 5px solid #2E64FE}
-a:link {color: blue}
-a:visited {color: blue}
-a:active {color: red}
-a:hover {color: red}
-	a {text-decoration: none}
-body {font-family: Arial}
-article table {width: 80%; margin-left: auto; margin-right: auto}
+#title {font-family: Arial; font-size: 40px}
+	a {text-decoration: none; color: white}
+body {font-family: Arial; margin: 0}
+article table {width: 75%; padding: 20px; margin-left: auto; margin-right: auto; border: 1px solid #D0D3D4; border-radius: 5px; background-color: white; border-spacing: 30px}
 header table {margin-left: auto; margin-right: auto}
 article h2 {text-align: center}
-article h3 {text-align: center}
-article table td {vertical-align: top}
+article h3 {text-align: center; color: white}
+article td {vertical-align: top; box-shadow: 5px 5px 5px #888888; background-color: #2874A6; border-radius: 20px}
 article img {height: auto; max-width: 100%; max-height: 300px}
+#navig {font-size: 30px; text-align: center; background-color: #2874A6; height: 80px; border-spacing: 20px; font-family: monospace}
+#navig td {border: 0px solid #D0D3D4; border-radius: 5px; background-color: #2E86C1}
 #main {text-align: center}
+#main td {border-radius: 0 0 20px 20px; color: white; width: 50%; vertical-align: bottom} 
+article {background-color: #ECF0F1}
+article li {color: white}
+#line td {background-color: white; height: 50px; box-shadow: 0px 0px}
+#back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
