@@ -33,4 +33,4 @@ p.del {color: red}
 article {background-color: #ECF0F1}
 #time {background-color: #2874A6; color: white; border-radius: 15px; border-spacing: 10px}
 td {border-radius: 7px}
-#tit {font-size: 35px; text-align: center}
+#tit {font-size: 35px; text-align: center; font-size: monospace}
