@@ -11,4 +11,5 @@ header table {margin-left: auto; margin-right: auto}
 article {background-color: #ECF0F1; margin-left: auto; margin-right: auto}
 #back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
 #student tr {background-color: #2874A6}
-#student td {width: 50%; border-radius: 20px}
+#student td {width: 50%; border-radius: 20px 0 0 20px}
+#inf {border-radius: 0 20px 20px 0}
