@@ -4,7 +4,7 @@
 	a {text-decoration: none}
 #news {font-size: 35px; text-align: center}
 body {font-family: monospace; margin: 0}
-article img {max-height: 300px; height: auto; width: 100%}
+article img {width: 100%; height: auto}
 td.np {vertical-align: top}
 #line td {background-color: white; height: 50px; box-shadow: 0px 0px}
 header table {margin-left: auto; margin-right: auto}
