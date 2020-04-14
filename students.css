@@ -3,7 +3,7 @@
 	a {text-decoration: none; color: white; font-family: monospace}
 #navig {font-size: 30px; text-align: center; background-color: #2874A6; height: 80px; border-spacing: 20px}
 #smalltitle {font-size: 35px; text-align: center; font-family: monospace}
-#student img {max-width: 100%; max-height: 500px; float: right}
+#student img {width: 100%; float: right}
 body {font-family: Arial; margin: 0}
 #student {margin-left: auto; margin-right: auto; width: 75%; border: 1px solid #D0D3D4; border-radius: 5px; background-color: white; border-spacing: 0px; padding: 50px}
 header table {margin-left: auto; margin-right: auto}
