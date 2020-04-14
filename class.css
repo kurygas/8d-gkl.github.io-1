@@ -11,7 +11,7 @@ header table {margin-left: auto; margin-right: auto}
 #navig {font-size: 30px; text-align: center; background-color: #2874A6; height: 80px; border-spacing: 20px}
 #navig a {color: white}
 #back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
-#list td {background-color: #2874A6; border-radius: 0 0 20px 20px; box-shadow: 5px 5px 5px #888888; vertical-align: bottom}
+#list td {background-color: #2874A6; border-radius: 0 0 20px 20px; box-shadow: 5px 5px 5px #888888; vertical-align: bottom; width: 25%}
 #line td {background-color: white; height: 50px; box-shadow: 0px 0px}
 article {background-color: #ECF0F1}
 #invis {visibility: hidden}
