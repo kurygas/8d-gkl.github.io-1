@@ -31,6 +31,6 @@ p.del {color: red}
 #navig td {border: 0px solid #D0D3D4; border-radius: 5px; background-color: #2E86C1}
 #back {height: 80px; width: 100%; background-color: #2874A6; margin-top: 50px}
 article {background-color: #ECF0F1}
-#time {background-color: #2874A6; color: white; border-radius: 15px; border-spacing: 10px}
+#time {background-color: #2874A6; color: white; border-radius: 15px; border-spacing: 10px; box-shadow: 5px 5px 5px #888888}
 td {border-radius: 7px}
 #tit {font-size: 35px; text-align: center; font-size: monospace}
