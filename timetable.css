@@ -20,7 +20,7 @@ td.it {background-color: #D5DBDB}
 td.literature {background-color: #AEB6BF}
 td.russian {background-color: #ABB2B9}
 	a {text-decoration: none; color: #2874A6}
-#navig a {color: white}
+#navig a {color: white; font-family: monospace}
 body {font-family: Arial; margin: 0}
 tr.miniline {height: 25px}
 tr.bigline {height: 50px}
